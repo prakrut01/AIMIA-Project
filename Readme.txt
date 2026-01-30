@@ -3,4 +3,5 @@ In this project we have trained 3 models which are Baseline paper's Resnet 50 mo
 I have created a small dataset which has 140 images and a .csv file containing the multilable classification information for testing of the models.
 We have test_final.ipynb file which tests both the efficient and ViT based trained models on the small dataset.
 
-All the training code of these models as in folder named Model_training_codes, all the testing codes of these models on original test dataset as in folder named Model_testing_codes. 
+All the training code of these models are in folder named Model_training_codes, all the testing codes of these models on original test dataset are in folder named Model_testing_codes. 
+
